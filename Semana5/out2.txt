@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   272  100   272    0     0   3825      0 --:--:-- --:--:-- --:--:--  3777100   272  100   272    0     0   3820      0 --:--:-- --:--:-- --:--:--  3777
+curl: (6) Could not resolve host: fakeurl
